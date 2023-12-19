@@ -1,1 +1,1 @@
-# Diabetes-Retina-Repo
+# DiabeticRetinopathyDetector
